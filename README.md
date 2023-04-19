@@ -26,7 +26,7 @@
 - :two: React 
 - :three: TypeScript
 - :four: React Native
-- :five: JAVA
+- :five: Next.js
       
 ## Recently studied projects 🔖
 

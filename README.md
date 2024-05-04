@@ -30,9 +30,6 @@
       
 ## Recently studied projects 🔖
 
-👉 <a href="https://20200890-johoyeon.github.io/kokoa-clone-2020/">Kokoa Talk Project</a>
-
-👉 <a href="#">Portfolio Project</a>
 
 ## Notice :question:
 

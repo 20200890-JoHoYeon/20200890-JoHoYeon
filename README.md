@@ -29,7 +29,11 @@
 - :five: Next.js
       
 ## Recently studied projects 🔖
+말레이시아 영어캠프 프로젝트
+https://edumalaysia.kr/
 
+워니토퍼 프로젝트
+https://web.wonnytopper.co.kr/
 
 ## Notice :question:
 

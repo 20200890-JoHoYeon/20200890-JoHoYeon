@@ -21,6 +21,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-black?style-square&logo=Instagram&link=https://www.instagram.com/hottak1129)](https://www.instagram.com/hottak1129)
 </div>
 
+<!-- 
 ## Roadmap 🏃‍♂️
 front-end
 - :one: JavaScript
@@ -32,7 +33,7 @@ front-end
 back-end
 - :one: JSP
 - :two: Node.js
-- :three: Spring Boot
+-->
 
 ## Recently studied projects 🔖
 말레이시아 영어캠프 프로젝트
@@ -49,9 +50,9 @@ And I will study JSP in depth to complete and finish the project :+1:
 
 ## My dream :exclamation:
 
-    1. front-end developer
-    2. back-end developer
-    3. Full Stack Developer
+    Step 1. front-end developer
+    Step 2. back-end developer
+    Step 3. Full Stack Developer
 Thank you for reading it. :kissing_heart:
 
 <!---

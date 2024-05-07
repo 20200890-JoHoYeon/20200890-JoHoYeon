@@ -1,7 +1,7 @@
 # Introduction
 - 👋 Hi, I’m @20200890-JoHoYeon
 - 👀 I am currently interested in web development
-- 🌱 I'm learning React right now
+- 🌱 I'm studying my major knowledge while going to school
 - 💞️ I'm going to cooperate on joint development
 - 📫 For more information, contact akftjd100@naver.com
 
@@ -22,12 +22,18 @@
 </div>
 
 ## Roadmap 🏃‍♂️
+front-end
 - :one: JavaScript
 - :two: React 
 - :three: TypeScript
 - :four: React Native
 - :five: Next.js
-      
+
+back-end
+- :one: JSP
+- :two: Node.js
+- :three: Spring Boot
+
 ## Recently studied projects 🔖
 말레이시아 영어캠프 프로젝트
 https://edumalaysia.kr/
@@ -37,13 +43,15 @@ https://web.wonnytopper.co.kr/
 
 ## Notice :question:
 
-Recently, we are working on various projects focusing on React. :+1:
+Recently, I have also become interested in the backend field, so I am working on projects centered on JSP. :+1:
 
-And I will study the React class in depth to complete and finish the project. :+1:
+And I will study JSP in depth to complete and finish the project :+1:
 
 ## My dream :exclamation:
 
-    front-end developer
+    1. front-end developer
+    2. back-end developer
+    3. Full Stack Developer
 Thank you for reading it. :kissing_heart:
 
 <!---

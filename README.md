@@ -10,7 +10,7 @@
       
 ### 💻 Tech Stack 💻
       
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
       
 ### 🧷 Collect links 🔗
       
@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-square&logo=Gmail&logoColor=white&link=mailto:akftjd100@gmail.com)](mailto:akftjd100@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style-square&logo=facebook&logoColor=white&link=https://www.facebook.com/SiLan1129)](https://www.facebook.com/SiLan1129) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akftjd100)](https://www.instagram.com/akftjd100)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-black?style-square&logo=Instagram&link=https://www.instagram.com/hottak1129)](https://www.instagram.com/hottak1129)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-black?style-square&logo=Instagram&link=https://www.instagram.com/hottak1129)](https://www.instagram.com/hottak_snap)
 </div>
 
 <!-- 
@@ -41,6 +41,9 @@ https://edumalaysia.kr/
 
 워니토퍼 프로젝트
 https://web.wonnytopper.co.kr/
+
+폴리 프로젝트
+https://github.com/20200890-JoHoYeon/poli
 
 ## Notice :question:
 

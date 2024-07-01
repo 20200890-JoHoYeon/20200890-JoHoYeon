@@ -10,7 +10,7 @@
       
 ### 💻 Tech Stack 💻
       
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,figma)](https://skillicons.dev)
       
 ### 🧷 Collect links 🔗
       
@@ -31,7 +31,7 @@ front-end
 - :five: Next.js
 
 back-end
-- :one: JSP
+- :one: ASP, JSP
 - :two: Node.js
 -->
 
@@ -47,9 +47,9 @@ https://github.com/20200890-JoHoYeon/poli
 
 ## Notice :question:
 
-Recently, I have also become interested in the backend field, so I am working on projects centered on JSP. :+1:
+Recently, I have also become interested in the backend field, so I am working on projects centered on ASP. :+1:
 
-And I will study JSP in depth to complete and finish the project :+1:
+And I will study ASP in depth to complete and finish the project :+1:
 
 ## My dream :exclamation:
 

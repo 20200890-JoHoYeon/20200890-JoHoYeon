@@ -45,10 +45,10 @@ https://web.wonnytopper.co.kr/
 폴리 프로젝트
 https://github.com/20200890-JoHoYeon/poli
 
-호리스트 프로젝트 (현장실습 과제)
+호리스트 프로젝트
 https://github.com/20200890-JoHoYeon/HoList
 
-하시에 키오스크 디자인 프로젝트 (현장실습 과제)
+HACIE 키오스크 디자인 프로젝트
 https://github.com/20200890-JoHoYeon/HACIE-KioskDesign
 
 ## Notice :question:

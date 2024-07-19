@@ -42,11 +42,11 @@ https://edumalaysia.kr/
 워니토퍼 프로젝트
 https://web.wonnytopper.co.kr/
 
-폴리 프로젝트
-https://github.com/20200890-JoHoYeon/poli
-
 호리스트 프로젝트
 https://github.com/20200890-JoHoYeon/HoList
+
+폴리 프로젝트
+https://github.com/20200890-JoHoYeon/poli
 
 하시에 키오스크 디자인
 https://github.com/20200890-JoHoYeon/HACIE-KioskDesign

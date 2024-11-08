@@ -46,12 +46,12 @@ https://web.wonnytopper.co.kr/
 말레이시아 영어캠프 프로젝트
 
 [![EduMalaysia](https://img.shields.io/badge/MalaysiaEG%20Visit%20Now-FFA500?style-square&logo=searxng)](https://edumalaysia.kr/)
-[![EduMalaysia Repo](http://img.shields.io/badge/MalaysiaEG%20Repository-333333?style-square&logo=github&link=https://edumalaysia.kr/)](https://edumalaysia.kr/)
+[![EduMalaysia Repo](http://img.shields.io/badge/MalaysiaEG%20Repository-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/MalaysiaEG)](https://github.com/20200890-JoHoYeon/MalaysiaEG)
 
 워니토퍼 프로젝트
 
 [![WonnyTopper](https://img.shields.io/badge/WonnyTopper%20Visit%20Now-ff69b4?style-square&logo=searxng)](https://web.wonnytopper.co.kr/)
-[![WonnyTopper Repo](http://img.shields.io/badge/WonnyTopper%20Repository-333333?style-square&logo=github&link=https://web.wonnytopper.co.kr/)](https://web.wonnytopper.co.kr/)
+[![WonnyTopper Repo](http://img.shields.io/badge/WonnyTopper%20Repository-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/wonnytopper)](https://github.com/20200890-JoHoYeon/wonnytopper)
 
 ## Recently studied projects 🏃‍♂️
 엑스포 AILAB/CARPEDM 졸업작품 싱킹 프로젝트

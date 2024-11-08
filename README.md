@@ -11,7 +11,8 @@
 ### 💻 Tech Stack 💻
       
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,figma)](https://skillicons.dev)
-      
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=5&theme=tokyonight&layout=compact" alt="20200890-JoHoYeon :: Top Langs" /></p>
+
 ### 🧷 Collect links 🔗
       
 [![tistory Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style-square&logo=github&link=https://akftjd100.tistory.com)](https://akftjd100.tistory.com)
@@ -20,6 +21,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akftjd100)](https://www.instagram.com/akftjd100)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-black?style-square&logo=Instagram&link=https://www.instagram.com/hottak1129)](https://www.instagram.com/hottak_snap)
 </div>
+
 
 <!-- 
 ## Roadmap 🏃‍♂️

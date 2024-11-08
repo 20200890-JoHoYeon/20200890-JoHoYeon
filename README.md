@@ -44,10 +44,10 @@ https://edumalaysia.kr/
 워니토퍼 프로젝트
 https://web.wonnytopper.co.kr/
 
-엑스포 카르페디엠 졸업작품 싱킹
-https://github.com/20200890-JoHoYeon/2024EXPO_CARPEDM_SINGKING
+엑스포 AILAB/CARPEDM 졸업작품 싱킹 프로젝트
+https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING
 
-현장실습 호리스트 프로젝트
+현장실습 과제 호리스트 프로젝트
 https://github.com/20200890-JoHoYeon/HoList
 
 <!--

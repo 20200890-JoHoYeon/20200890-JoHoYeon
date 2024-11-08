@@ -37,18 +37,21 @@ back-end
 - :four: spring
 -->
 
-## Recently studied projects 🔖
+## Distribution Project 🔖
 말레이시아 영어캠프 프로젝트
 https://edumalaysia.kr/
 
 워니토퍼 프로젝트
 https://web.wonnytopper.co.kr/
 
+## Recently studied projects 🏃‍♂️
 엑스포 AILAB/CARPEDM 졸업작품 싱킹 프로젝트
-https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING
+
+[![2024EXPO_AILAB-CARPEDM_SINGKING](http://img.shields.io/badge/2024EXPO%20AILAB/CARPEDM%20SINGKING-655ced?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)](https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)
 
 현장실습 과제 호리스트 프로젝트
-https://github.com/20200890-JoHoYeon/HoList
+
+[![HoList](http://img.shields.io/badge/FIELDWORK%20ASSIGNMENT%20HOLIST-655ced?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/HoList)](https://github.com/20200890-JoHoYeon/HoList)
 
 <!--
 하시에 키오스크 디자인

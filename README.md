@@ -11,7 +11,7 @@
 ### 💻 Tech Stack 💻
       
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,figma)](https://skillicons.dev)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=5&theme=tokyonight&layout=compact" alt="20200890-JoHoYeon :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=8&theme=tokyonight&layout=compact" alt="20200890-JoHoYeon :: Top Langs" /></p>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&theme=synthwave" alt="JoHoYeon :: Profile Stats" /></p> -->
 
 ### 🧷 Collect links 🔗

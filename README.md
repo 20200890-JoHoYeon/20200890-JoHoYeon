@@ -10,7 +10,7 @@
       
 ### 💻 Tech Stack 💻
       
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,mssql,figma,kotlin,c,cs,cpp)](https://skillicons.dev)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=8&theme=tokyonight&layout=compact" alt="20200890-JoHoYeon :: Top Langs" /></p>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&theme=synthwave" alt="JoHoYeon :: Profile Stats" /></p> -->
 
@@ -56,7 +56,7 @@ https://web.wonnytopper.co.kr/
 [![WonnyTopper](https://img.shields.io/badge/WonnyTopper%20Visit%20Now-ff69b4?style-square&logo=searxng)](https://web.wonnytopper.co.kr/)
 [![WonnyTopper Repo](http://img.shields.io/badge/WonnyTopper%20Repository-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/wonnytopper)](https://github.com/20200890-JoHoYeon/wonnytopper)
 
-## Recently studied projects 🏃‍♂️
+## Studied Projects 🏃‍♂️
 엑스포 AILAB/CARPEDM 졸업작품 싱킹 프로젝트
 
 [![2024EXPO_AILAB-CARPEDM_SINGKING](http://img.shields.io/badge/2024EXPO%20AILAB/CARPEDM%20SINGKING-475E86?style-square&logo=React&link=https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)](https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)
@@ -65,11 +65,13 @@ https://web.wonnytopper.co.kr/
 현장실습 과제 호리스트 프로젝트
 
 [![HoList](http://img.shields.io/badge/FIELDWORK%20ASSIGNMENT%20HOLIST-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/HoList)](https://github.com/20200890-JoHoYeon/HoList)
-
+-->
 
 하시에 키오스크 디자인
-[HACIE_KIOSK_DESIGN](https://www.figma.com/proto/zphVmbna3TpnAATDDUkRdK/%ED%95%98%EC%8B%9C%EC%97%90-%EC%B9%B4%ED%8E%98-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=77-542&t=HQYDNHL31ktNCwDy-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=77%3A467)
--->
+
+[![HACIE_KIOSK_DESIGN](https://img.shields.io/badge/HACIE_KIOSK_DESIGN%20Visit%20Now-333333?style-square&logo=figma)](https://www.figma.com/proto/zphVmbna3TpnAATDDUkRdK/%ED%95%98%EC%8B%9C%EC%97%90-%EC%B9%B4%ED%8E%98-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=77-542&t=HQYDNHL31ktNCwDy-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=77%3A467)
+
+
 <!--
 ## Notice :question:
 

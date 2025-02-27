@@ -13,8 +13,21 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,kotlin,java,c,cs,cpp)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,spring,figma,androidstudio,idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="20200890-JoHoYeon :: Top Langs" /></p>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&theme=synthwave" alt="JoHoYeon :: Profile Stats" /></p> -->
+<p align="center">
+    <!-- 가장 많이 사용한 언어 -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="200"/>
+    <!-- GitHub 프로필 통계 -->
+    <img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true" alt="Profile Stats" height="200"/>
+</p>
+
+<!--
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=20200890-JoHoYeon&theme=tokyo-night" alt="GitHub Activity Graph" width="600" style="border-radius: 15px;"/>
+</p>
+-->
+
+
+
 
 ### 🧷 Collect links 🔗
       

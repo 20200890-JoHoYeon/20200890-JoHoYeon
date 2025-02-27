@@ -12,7 +12,7 @@
       
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,kotlin,java,c,cs,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,figma,androidstudio,idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,spring,figma,androidstudio,idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="20200890-JoHoYeon :: Top Langs" /></p>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&theme=synthwave" alt="JoHoYeon :: Profile Stats" /></p> -->
 

@@ -58,9 +58,9 @@ https://web.wonnytopper.co.kr/
 [![WonnyTopper](https://img.shields.io/badge/WonnyTopper%20Visit%20Now-ff69b4?style-square&logo=searxng)](https://web.wonnytopper.co.kr/)
 [![WonnyTopper Repo](http://img.shields.io/badge/WonnyTopper%20Repository-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/wonnytopper)](https://github.com/20200890-JoHoYeon/wonnytopper)
 
-ToDoList 어플리케이션 프로젝트
+ToDoList 애플리케이션 프로젝트
 
-[![ToDoList_App](https://img.shields.io/badge/ToDoList_App%20Visit%20Now-000000?style-square&logo=searxng)]()
+[![ToDoList_App](https://img.shields.io/badge/ToDoList_App%20Visit%20Now-2A4174?style-square&logo=googleplay)]()
 [![ToDoList_App Repo](http://img.shields.io/badge/ToDoList_App%20Repository-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/ToDoList_App)](https://github.com/20200890-JoHoYeon/ToDoList_App)
 
 ## Studied Projects 🏃‍♂️

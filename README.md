@@ -20,7 +20,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Profile Stats" height="200"/>
 </p>
 
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=20200890-JoHoYeon&theme=radical)
+-->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&row=1&theme=dracula)
 

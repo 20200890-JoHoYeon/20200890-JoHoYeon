@@ -22,7 +22,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=20200890-JoHoYeon&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&row=2&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&row=1&theme=dracula)
 
 
 

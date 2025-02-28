@@ -17,15 +17,12 @@
     <!-- 가장 많이 사용한 언어 -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="200"/>
     <!-- GitHub 프로필 통계 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true" alt="Profile Stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Profile Stats" height="200"/>
 </p>
 
-<!--
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=20200890-JoHoYeon&theme=tokyo-night" alt="GitHub Activity Graph" width="600" style="border-radius: 15px;"/>
-</p>
--->
+![GitHub Streak](https://streak-stats.demolab.com?user=20200890-JoHoYeon&theme=radical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&row=2&theme=dracula)
 
 
 
@@ -37,28 +34,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akftjd100)](https://www.instagram.com/akftjd100)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-black?style-square&logo=Instagram&link=https://www.instagram.com/hottak1129)](https://www.instagram.com/hottak_snap)
 </div>
-
-
-<!-- 
-## Roadmap 🏃‍♂️
-front-end
-- :one: JavaScript
-- :two: React 
-- :three: TypeScript
-- :four: React Native
-- :five: Next.js
-
-back-end
-- :one: ASP, JSP
-- :two: Node.js
-- :three: Flask
-- :four: spring
--->
-
-<!-- 
-https://edumalaysia.kr/
-https://web.wonnytopper.co.kr/
--->
 
 ## Distribution Project 🔖
 말레이시아 영어캠프 프로젝트
@@ -80,12 +55,6 @@ ToDoList 애플리케이션 프로젝트
 엑스포 AILAB/CARPEDM 졸업작품 싱킹 프로젝트
 
 [![2024EXPO_AILAB-CARPEDM_SINGKING](http://img.shields.io/badge/2024EXPO%20AILAB/CARPEDM%20SINGKING-475E86?style-square&logo=React&link=https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)](https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)
-
-<!--
-현장실습 과제 호리스트 프로젝트
-
-[![HoList](http://img.shields.io/badge/FIELDWORK%20ASSIGNMENT%20HOLIST-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/HoList)](https://github.com/20200890-JoHoYeon/HoList)
--->
 
 하시에 키오스크 디자인
 
@@ -116,3 +85,38 @@ Thank you for reading it. :kissing_heart:
 20200890-JoHoYeon/20200890-JoHoYeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- 
+## Roadmap 🏃‍♂️
+front-end
+- :one: JavaScript
+- :two: React 
+- :three: TypeScript
+- :four: React Native
+- :five: Next.js
+
+back-end
+- :one: ASP, JSP
+- :two: Node.js
+- :three: Flask
+- :four: spring
+-->
+
+<!-- 
+https://edumalaysia.kr/
+https://web.wonnytopper.co.kr/
+-->
+
+<!--
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=20200890-JoHoYeon&theme=tokyo-night" alt="GitHub Activity Graph" width="600" style="border-radius: 15px;"/>
+-->
+
+<!--
+![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&theme=algolia&no-bg=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&theme=gruvbox)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&theme=flat&margin-w=10)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&theme=onedark)
+-->

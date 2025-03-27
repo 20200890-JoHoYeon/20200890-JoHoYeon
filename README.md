@@ -21,14 +21,6 @@
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=20200890-JoHoYeon&column=4&row=1&theme=dracula)
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=20200890-JoHoYeon&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/20200890-JoHoYeon?pet-id=692652490887401016"
-    width="600"
-    height="120"
-  />
-</a>
   
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=20200890-JoHoYeon&utm_content=farm">
 <img
@@ -38,6 +30,13 @@
 />
 </a>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=20200890-JoHoYeon&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/20200890-JoHoYeon?pet-id=692652490887401016"
+    width="600"
+    height="120"
+  />
+</a>
 
 <!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=20200890-JoHoYeon&theme=radical)

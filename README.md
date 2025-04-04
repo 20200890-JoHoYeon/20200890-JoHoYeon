@@ -59,9 +59,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=20200890-JoHoYeon&theme=radical)
 -->
 
-
-
-
 ### 🧷 Collect links 🔗
       
 [![tistory Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style-square&logo=github&link=https://akftjd100.tistory.com)](https://akftjd100.tistory.com)
@@ -70,6 +67,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akftjd100)](https://www.instagram.com/akftjd100)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-black?style-square&logo=Instagram&link=https://www.instagram.com/hottak1129)](https://www.instagram.com/hottak_snap)
 </div>
+
+## 🏆 Awards
+> 2024 동양미래EXPO(제42회 졸업작품전시회) / KES 2024 (한국전자전) 우수상 – 동양미래대학교 (2024.11.25)<br/>
+> 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK 플래닛 (2018.11.05)
+
+## 📜 Certifications
+> 2021 정보처리산업기사 / 산업기사 - 한국산업인력공단 (2021.11.26)
 
 ## Distribution Project 🔖
 말레이시아 영어캠프 프로젝트

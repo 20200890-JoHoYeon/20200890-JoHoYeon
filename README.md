@@ -29,7 +29,7 @@
   height="300"
 />
 </a>
--->
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=20200890-JoHoYeon&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/20200890-JoHoYeon?pet-id=692652490887401016"
@@ -45,7 +45,15 @@
     height="120"
   />
 </a>
-   
+-->
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/695859897830166091/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 <!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=20200890-JoHoYeon&theme=radical)

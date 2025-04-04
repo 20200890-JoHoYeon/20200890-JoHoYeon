@@ -69,8 +69,8 @@
 </div>
 
 ## 🏆 Awards
-> 2024 동양미래EXPO(제42회 졸업작품전시회) / KES 2024 (한국전자전) 우수상 – 동양미래대학교 (2024.11.25)<br/>
-> 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK 플래닛 (2018.11.05)
+> 2024 Dongyang Mirae EXPO(제42회 졸업작품전시회) / KES 2024 (한국전자전) 우수상 – Dongyang Mirae University (2024.11.25)<br/>
+> 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK Planet (2018.11.05)
 
 ## 📜 Certifications
 > 2021 정보처리산업기사 / 산업기사 - 한국산업인력공단 (2021.11.26)

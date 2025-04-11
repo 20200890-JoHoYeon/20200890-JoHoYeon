@@ -12,7 +12,7 @@
       
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,kotlin,java,c,cs,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,spring,figma,androidstudio,idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,firebase,figma,androidstudio,idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
 <p align="center">
     <!-- 가장 많이 사용한 언어 -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="200"/>

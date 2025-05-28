@@ -91,7 +91,7 @@ ToDoList 애플리케이션 프로젝트
 [![ToDoList_App](https://img.shields.io/badge/ToDoList_App%20Visit%20Now-2A4174?style-square&logo=googleplay)]()
 [![ToDoList_App Repo](http://img.shields.io/badge/ToDoList_App%20Repository-333333?style-square&logo=github&link=https://github.com/20200890-JoHoYeon/ToDoList_App)](https://github.com/20200890-JoHoYeon/ToDoList_App)
 
-## Studied Projects 🏃‍♂️
+## Showcased Projects 🏃‍♂️
 엑스포 AILAB/CARPEDM 졸업작품 싱킹 프로젝트
 
 [![2024EXPO_AILAB-CARPEDM_SINGKING](http://img.shields.io/badge/2024EXPO%20AILAB/CARPEDM%20SINGKING-475E86?style-square&logo=React&link=https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)](https://github.com/20200890-JoHoYeon/2024EXPO_AILAB-CARPEDM_SINGKING)

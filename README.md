@@ -69,11 +69,17 @@
 </div>
 
 ## 🏆 Awards
-> 2024 Dongyang Mirae EXPO(제42회 졸업작품전시회) / KES 2024 (한국전자전) 우수상 – Dongyang Mirae University (2024.11.25)<br/>
-> 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK Planet (2018.11.05)
+> 2024 Dongyang Mirae EXPO(제42회 졸업작품전시회) / KES 2024 (한국전자전) 우수상 – Dongyang Mirae University / (2024.11.25)<br/>
+> 2019 Smart App Development Contest / 최우수상(1위) / – Kwangshin Information Industrial High School / (2019.01.28)<br/>
+> 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK Planet / (2018.11.05)
 
 ## 📜 Certifications
-> 2021 정보처리산업기사 / 산업기사 - 한국산업인력공단 (2021.11.26)
+> 2025 운전면허 / 2종 보통 - 도로교통공단(경찰청) / (2025.06.28)<br/>
+> 2021 정보처리산업기사 / 산업기사 - 한국산업인력공단 / (2021.11.26)<br/>
+> 2018 정보기술자격(ITQ) / A등급(한글엑셀) - 한국생산성본부 / (2018.12.18)<br/>
+> 2018 AT(AccountingTechnician)FAT / 2급 - 한국공인회계사회 / (2018.11.06)
+
+## 📁 Club
 
 ## Distribution Project 🔖
 말레이시아 영어캠프 프로젝트

@@ -69,24 +69,63 @@
 </div>
 
 ## 🏆 Awards
+<!--
 > 2024 Dongyang Mirae EXPO(제42회 졸업작품전시회) / KES 2024 (한국전자전) 우수상 – Dongyang Mirae University / (2024.11.25)<br/>
 > 2019 Smart App Development Contest / 최우수상(1위) – Kwangshin Information Industrial High School / (2019.01.28)<br/>
 > 2019 Smart App Development Contest / 공동수상(3인) – Kwangshin Information Industrial High School / (2019.01.)<br/>
 > 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK Planet / (2018.11.05)<br/>
 > 2017 Smart App Development Contest / 공동수상(2인) – Kwangshin Information Industrial High School / (2017.12.)
+-->
+
+| 연도 | 대회명                                | 수상 내용                   | 수여 기관                             | 일자        |
+|------|----------------------------------------|-----------------------------|--------------------------------------|-------------|
+| 2024 | KES 2024 EXPO (제42회 졸업작품전)       | 우수상                      | Dongyang Mirae University             | 2024.11.25  |
+| 2019 | Smart App Development Contest          | 최우수상 (1위)              | Kwangshin Information Industrial HS   | 2019.01.28  |
+| 2019 | Smart App Development Contest          | 공동수상 (3인)              | Kwangshin Information Industrial HS   | 2019.01.28  |
+| 2018 | Smarteen App+ Challenge 2018           | 생활 정보 부문 가작         | SK Planet                             | 2018.11.05  |
+| 2017 | Smart App Development Contest          | 공동수상 (2인)              | Kwangshin Information Industrial HS   | 2017.12     |
+
 
 ## 📜 Certifications
+<!--
 > 2025 운전면허 / 2종 보통 – 도로교통공단(경찰청) / (2025.06.28)<br/>
 > 2021 정보처리산업기사 / 산업기사 – 한국산업인력공단 / (2021.11.26)<br/>
 > 2018 정보기술자격(ITQ) / A등급(한글엑셀) – 한국생산성본부 / (2018.12.18)<br/>
 > 2018 AT(AccountingTechnician)FAT / 2급 – 한국공인회계사회 / (2018.11.06)
+-->
+
+| 연도 | 자격증명                     | 등급/종류           | 발행기관                 | 취득일자     |
+|------|------------------------------|---------------------|--------------------------|--------------|
+| 2025 | 운전면허                     | 2종 보통            | 도로교통공단(경찰청)     | 2025.06.28   |
+| 2021 | 정보처리산업기사             | 산업기사            | 한국산업인력공단         | 2021.11.26   |
+| 2018 | 정보기술자격(ITQ)            | A등급 (한글 엑셀)  | 한국생산성본부           | 2018.12.18   |
+| 2018 | AT(Accounting Technician) FAT | 2급                 | 한국공인회계사회         | 2018.11.06   |
+
 
 ## 📁 Club
+<!--
 > 2024 CarpeDM / member / (2024.03 ~ 2025.02)<br/>
 > 2021 MARS Sequel / member / (2021.11 ~ 2024.01)<br/>
 > 2020 MARS / member / (2020.03 ~ 2021.02)<br/>
 > 2017 App development team / president / (2017.03 ~ 2020.02)<br/>
 > 2014 software club / president / (2014.03 ~ 2017.02)
+-->
+
+| 연도 | 동아리명               | 역할           | 기간                     |
+|------|------------------------|----------------|--------------------------|
+| 2024 | CarpeDM                | Member         | 2024.03 ~ 2025.02        |
+| 2023 | MARS Sequel            | Member         | 2021.11 ~ 2024.01        |
+| 2022 | MARS Sequel            | Member         | 2021.11 ~ 2024.01        |
+| 2021 | MARS Sequel            | Member         | 2021.11 ~ 2024.01        |
+| 2020 | MARS                   | Member         | 2020.03 ~ 2021.02        |
+| 2019 | App development team   | President      | 2017.03 ~ 2020.02        |
+| 2018 | App development team   | Vice President | 2017.03 ~ 2020.02        |
+| 2017 | App development team   | Member         | 2017.03 ~ 2020.02        |
+| 2016 | Software club          | Vice President | 2014.03 ~ 2017.02        |
+| 2015 | Software club          | President      | 2014.03 ~ 2017.02        |
+| 2014 | Software club          | Member         | 2014.03 ~ 2017.02        |
+
+
 
 
 ## Distribution Project 🔖

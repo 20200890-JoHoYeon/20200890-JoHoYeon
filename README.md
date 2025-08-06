@@ -82,17 +82,11 @@
 > 2018 AT(AccountingTechnician)FAT / 2급 - 한국공인회계사회 / (2018.11.06)
 
 ## 📁 Club
-> 2024 CarpeDM  
-> 2023 MARS Sequel  
-> 2022 MARS Sequel  
-> 2021 MARS Sequel  
-> 2020 MARS  
-> 2019 App development team / president  
-> 2018 App development team / Vice president  
-> 2017 App development team  
-> 2016 software club / Vice president  
-> 2015 software club / president  
-> 2014 software club  
+> 2024 CarpeDM / member / (2024.03 ~ 2025.02)   
+> 2021 MARS Sequel / member / (2021.11 ~ 2024.01)  
+> 2020 MARS / member / (2020.03 ~ 2021.02)  
+> 2017 App development team / president / (2017.03 ~ 2020.02)  
+> 2014 software club / president / (2014.03 ~ 2017.02)   
 
 
 ## Distribution Project 🔖

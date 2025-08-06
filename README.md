@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,spring,anaconda,figma,androidstudio,idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
 <p align="center">
     <!-- 가장 많이 사용한 언어 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200890-JoHoYeon&langs_count=10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="194.5"/>
     <!-- GitHub 프로필 통계 -->
     <img src="https://github-readme-stats.vercel.app/api?username=20200890-JoHoYeon&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Profile Stats" height="200"/>
 </p>

@@ -83,7 +83,7 @@
 | 2019 | Smart App Development Contest          | 최우수상 (1위)              | Kwangshin Information Industrial HS   | 2019.01.28  |
 | 2019 | Smart App Development Contest          | 공동수상 (3인)              | Kwangshin Information Industrial HS   | 2019.01.28  |
 | 2018 | Smarteen App+ Challenge 2018           | 생활 정보 부문 가작         | SK Planet                             | 2018.11.05  |
-| 2017 | Smart App Development Contest          | 공동수상 (2인)              | Kwangshin Information Industrial HS   | 2017.12     |
+| 2017 | Smart App Development Contest          | 공동수상 (2인)              | Kwangshin Information Industrial HS   | 2017.12.07  |
 
 
 ## 📜 Certifications
@@ -111,6 +111,7 @@
 > 2014 software club / president / (2014.03 ~ 2017.02)
 -->
 
+<!--
 | 연도 | 동아리명               | 역할           | 기간                     |
 |------|------------------------|----------------|--------------------------|
 | 2024 | CarpeDM                | Member         | 2024.03 ~ 2025.02        |
@@ -124,6 +125,15 @@
 | 2016 | Software club          | Vice President | 2014.03 ~ 2017.02        |
 | 2015 | Software club          | President      | 2014.03 ~ 2017.02        |
 | 2014 | Software club          | Member         | 2014.03 ~ 2017.02        |
+-->
+
+| 연도         | 동아리명               | 역할           | 기간                     |
+|--------------|------------------------|----------------|--------------------------|
+| 2024 ~ 2025  | CarpeDM                | Member         | 2024.03 ~ 2025.02        |
+| 2021 ~ 2023  | MARS Sequel            | Member         | 2021.11 ~ 2024.01        |
+| 2020 ~ 2021  | MARS                   | Member         | 2020.03 ~ 2021.02        |
+| 2017 ~ 2019  | App development team   | President      | 2017.03 ~ 2020.02        |
+| 2014 ~ 2016  | Software club          | President      | 2014.03 ~ 2016.02        |
 
 
 

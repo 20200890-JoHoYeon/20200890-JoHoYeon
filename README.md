@@ -71,7 +71,9 @@
 ## 🏆 Awards
 > 2024 Dongyang Mirae EXPO(제42회 졸업작품전시회) / KES 2024 (한국전자전) 우수상 – Dongyang Mirae University / (2024.11.25)<br/>
 > 2019 Smart App Development Contest / 최우수상(1위) / – Kwangshin Information Industrial High School / (2019.01.28)<br/>
-> 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK Planet / (2018.11.05)
+> 2019 Smart App Development Contest / [] / – Kwangshin Information Industrial High School / ([])<br/>
+> 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK Planet / (2018.11.05)<br/>
+> 2017 Smart App Development Contest / [] / – Kwangshin Information Industrial High School / ([])
 
 ## 📜 Certifications
 > 2025 운전면허 / 2종 보통 - 도로교통공단(경찰청) / (2025.06.28)<br/>

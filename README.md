@@ -75,7 +75,6 @@
 > 2019 Smart App Development Contest / 공동수상(3인) – Kwangshin Information Industrial High School / (2019.01.)<br/>
 > 2018 Smarteen App+ Challenge 2018 / 생활 정보 부문 가작 – SK Planet / (2018.11.05)<br/>
 > 2017 Smart App Development Contest / 공동수상(2인) – Kwangshin Information Industrial High School / (2017.12.)
--->
 
 | 연도 | 대회명                                | 수상 내용                   | 수여 기관                             | 일자        |
 |------|----------------------------------------|-----------------------------|--------------------------------------|-------------|
@@ -84,6 +83,11 @@
 | 2019 | Smart App Development Contest          | 공동수상 (3인)              | Kwangshin Information Industrial HS   | 2019.01.28  |
 | <strong>2018</strong> | <strong>Smarteen App+ Challenge 2018</strong>           | <strong>생활 정보 부문 가작</strong>         | <strong>SK Planet</strong>                             | <strong>2018.11.05</strong>  |
 | 2017 | Smart App Development Contest          | 공동수상 (2인)              | Kwangshin Information Industrial HS   | 2017.12.07  |
+-->
+
+<img width="795" height="205" alt="image" src="https://github.com/user-attachments/assets/34af3174-7277-4a46-a729-da393be6f2c0" />
+
+
 
 
 ## 📜 Certifications
@@ -92,7 +96,6 @@
 > 2021 정보처리산업기사 / 산업기사 – 한국산업인력공단 / (2021.11.26)<br/>
 > 2018 정보기술자격(ITQ) / A등급(한글엑셀) – 한국생산성본부 / (2018.12.18)<br/>
 > 2018 AT(AccountingTechnician)FAT / 2급 – 한국공인회계사회 / (2018.11.06)
--->
 
 | 연도 | 자격증명                     | 등급/종류           | 발행기관                 | 취득일자     |
 |------|------------------------------|---------------------|--------------------------|--------------|
@@ -100,6 +103,9 @@
 | <strong>2021</strong> | <strong>정보처리산업기사</strong>             | <strong>산업기사</strong>            | <strong>한국산업인력공단</strong>         | <strong>2021.11.26</strong>   |
 | 2018 | 정보기술자격(ITQ)            | A등급 (한글 엑셀)  | 한국생산성본부           | 2018.12.18   |
 | 2018 | AT(Accounting Technician) FAT | 2급                 | 한국공인회계사회         | 2018.11.06   |
+-->
+
+<img width="649" height="171" alt="image" src="https://github.com/user-attachments/assets/822362ad-9262-4171-8287-c6f32fafe76e" />
 
 
 ## 📁 Club
@@ -109,9 +115,7 @@
 > 2020 MARS / member / (2020.03 ~ 2021.02)<br/>
 > 2017 App development team / president / (2017.03 ~ 2020.02)<br/>
 > 2014 software club / president / (2014.03 ~ 2017.02)
--->
 
-<!--
 | 연도 | 동아리명               | 역할           | 기간                     |
 |------|------------------------|----------------|--------------------------|
 | 2024 | CarpeDM                | Member         | 2024.03 ~ 2025.02        |
@@ -125,7 +129,6 @@
 | 2016 | Software club          | Vice President | 2014.03 ~ 2017.02        |
 | 2015 | Software club          | President      | 2014.03 ~ 2017.02        |
 | 2014 | Software club          | Member         | 2014.03 ~ 2017.02        |
--->
 
 | 연도         | 동아리명               | 역할           | 기간                     |
 |--------------|------------------------|----------------|--------------------------|
@@ -134,7 +137,9 @@
 | 2020 ~ 2021  | MARS                   | Member         | 2020.03 ~ 2021.02        |
 | <strong>2017 ~ 2019</strong>  | <strong>App development team</strong>   | <strong>President</strong>      | <strong>2017.03 ~ 2020.02</strong>        |
 | 2014 ~ 2016  | Software club          | President      | 2014.03 ~ 2016.02        |
+-->
 
+<img width="515" height="205" alt="image" src="https://github.com/user-attachments/assets/f42ff456-db49-4173-890b-0561d3fcf2a5" />
 
 
 
